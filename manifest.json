@@ -1,0 +1,14 @@
+{
+  "renovate/all-non-major-docker-images": {
+    "apps": [
+      {
+        "name": "review-apps",
+        "headCommitId": "42c0a048283e429fc24377a3ea2997ea3a4046a4",
+        "updatedAt": "2023-01-13T18:36:02.213Z",
+        "href": "renovate/all-non-major-docker-images/review-apps/42c0a0",
+        "pullRequestUrl": "https://github.com/cds-snc/notification-documentation/pull/108",
+        "githubPagesUrl": "https://cds-snc.github.io/notification-documentation/renovate/all-non-major-docker-images/review-apps/42c0a0"
+      }
+    ]
+  }
+}
